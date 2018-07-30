@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OpenCLTest</string>
+    <string name="app_title">Somma Vettori</string>
+    <string name="dimension_msg">Dimensione Vettori:</string>
+    <string name="vector_A_msg">Vettore A</string>
+    <string name="random_msg">Genera</string>
+    <string name="vector_B_msg">Vettore B</string>
+    <string name="vector_S_msg">Vettore S</string>
+    <string name="sum_msg">Somma</string>
+</resources>
